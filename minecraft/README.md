@@ -4,8 +4,8 @@ It will base its error limits off the max player count at the time of creation.
 
 # Setting up
 You will need to add the below libaries to "C:\Program Files (x86)\PRTG Network Monitor\python\\"\
-https://pypi.org/project/mcstatus/\
-https://pypi.org/project/dnspython/\
+https://pypi.org/project/mcstatus/ \
+https://pypi.org/project/dnspython/ \
 https://pypi.org/project/asyncio-dgram/
 
 # Sensor Atributes
